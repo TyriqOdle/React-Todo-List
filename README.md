@@ -212,5 +212,6 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍🎨 Author
 
-Developed by **Tyriq ODle**  
+Developed by **Tyriq Odle**  
 💻 GitHub: [TyriqOdle](https://github.com/TyriqOdle)
+
